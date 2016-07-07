@@ -1,0 +1,24 @@
+{
+  "name": "titan16",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinkorte/titan.git"
+  },
+  "author": "Kevin Korte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinkorte/titan/issues"
+  },
+  "homepage": "https://github.com/kevinkorte/titan#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-sass": "^2.3.2"
+  }
+}
