@@ -1,6 +1,7 @@
-<?php get_header(); ?>
+    <?php get_header(); ?>
+  </head>
+  <body>
 
-</head>
-<body>
+    <?php wp_nav_menu( array( 'theme_location' => 'header-menu' ) ); ?>
 
-<?php get_footer(); ?>
+    <?php get_footer(); ?>
